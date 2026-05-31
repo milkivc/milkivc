@@ -1,182 +1,194 @@
-<!-- ASSOCIAÇÃO MILK — PERFIL INSTITUCIONAL GITHUB -->
-<!-- Versão 1.0 | Maio 2026 | Blindagem semântica, jurídica, académica e financiável -->
+# 🐄 MILK
+## Movimento de Intervenções e Linguagens Kulturais e Arte
 
-<div align="center">
+> *"Não somos aquilo que fizeram de nós,*
+> *mas o que fazemos com o que fizeram de nós."*
+> — Jean-Paul Sartre
 
-# ✦ ASSOCIAÇÃO MILK ✦
-### Movimento de Intervenções e Linguagens **K**ulturais e Arte
-
----
-
-*O K em Kulturais não é erro ortográfico — é posicionamento.*  
-*É a marca de uma linguagem que recusa ser capturada pela norma quando a norma apaga.*  
-*K de resistência, K de cuidado, K de quem decide soletrar diferente para dizer diferente.*  
-*A bandeira da possibilidade não se desdobra em linha reta — ela dobra, redobra, e inventa um novo ponto de fuga.*
+> *Este repositório é um arquivo vivo.*
+> *Não tem versão final.*
+> *Tem versões que respiram.*
 
 ---
 
-[![Website](https://img.shields.io/badge/Website-associacaomilk.pt-01696f?style=flat-square&logo=internet-explorer&logoColor=white)](https://associacaomilk.pt)
-[![Email](https://img.shields.io/badge/Email-milk%40associacaomilk.pt-01696f?style=flat-square&logo=gmail&logoColor=white)](mailto:milk@associacaomilk.pt)
-[![Licença](https://img.shields.io/badge/Licen%C3%A7a-EUPL%201.2-437a22?style=flat-square)](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12)
-[![GDPR](https://img.shields.io/badge/GDPR-Compliant-437a22?style=flat-square)](https://gdpr.eu)
-[![Status](https://img.shields.io/badge/Status-Infraestrutura%20Ativa-01696f?style=flat-square)](#)
+## O que é a MILK
 
-</div>
+A **Associação MILK** não é uma organização cultural entre outras.
 
----
+É uma **infraestrutura**.
 
-## ✦ Identidade
+Existe como suporte, não como evento.
+Existe como prática, não como produto.
+Existe como escuta, não como palco.
 
-A **Associação MILK — Movimento de Intervenções e Linguagens Kulturais e Arte** é uma infraestrutura cultural de longa duração, constituída em Portugal, dedicada à leitura territorial, à salvaguarda do património imaterial, à dramaturgia de participação e à construção de dispositivos de memória viva.
+Fomenta a singularidade.
+Investiga a profundidade humana.
+Recusa converter a existência em número.
+Recusa medir impacto por engajamento.
+Recusa escalar por inimização.
 
-Não somos um projeto. Somos uma arquitectura.
-
-A MILK opera como **estrutura-mãe** de um ecossistema de projetos, metodologias e dispositivos culturais aplicados ao território português. O seu núcleo é genealógico, constitucional e metodológico — anterior ao Atlas, anterior à visibilidade pública, anterior a qualquer candidatura.
-
----
-
-## ✦ Porquê o K
-
-O **K em Kulturais** é intencional, constante e inegociável.
-
-Num contexto em que a cultura tende a ser domesticada, neutralizada e folclorizada para consumo passivo, o K marca a diferença entre cultura como produto e cultura como **campo de forças**. É uma recusa ortográfica com consequências epistémicas. Uma grafia que anuncia: aqui, as linguagens têm intenção.
-
-Este K é a **Bandeira da Possibilidade** — sinal de que o que ainda não tem nome pode ser nomeado, o que ainda não tem forma pode ser construído, e o que foi apagado pode ser resgatado com rigor, afeto e método.
+Tem uma vaquinha que pulsa num mapa nocturno.
+Chama-se **Atlas Vivo MILK**.
+E chama toda a gente para brincar — ou inventar um lugar para a gente cultivar — ou encontrar o possível.
 
 ---
 
-## ✦ Estrutura Institucional
+## Eduardo Mauer
+### Curador e Diplomata do Caos e do Absurdo
 
-```
-ASSOCIAÇÃO MILK
-│
-├── Carta Constitucional MILK/OCSR
-│     └── Títulos I–VIII | Cláusulas de continuidade | Blindagem institucional
-│
-├── Governança Psicossocial
-│     ├── OCSB — Observatório de Comportamento Social e Bem-estar
-│     ├── OCSR — Observatório de Complexidade Social e Relacional
-│     └── SCRCT — Sistema de Classificação e Registo Cultural e Territorial
-│
-├── Ética e Rastreabilidade
-│     ├── SELO INTERNO DE AUDITORIA MILK — VERSÃO BLINDADA v2
-│     ├── Princípio Zero (anti-coleta por design)
-│     ├── Método Zero
-│     └── Protocolo Interno de Segurança Digital
-│
-├── Projetos Estruturais
-│     ├── 🗺️  Atlas Vivo MILK
-│     ├── 👁️  OlHaPIN
-│     └── [outros dispositivos em activação]
-│
-└── Camada Visual e Normativa
-      ├── Matriz Escultórica MILK
-      ├── Alfabeto Vetorial Geométrico Base MILK
-      └── Logomarca — 4 variações controladas
-```
+Eduardo Mauer é o fundador e director da MILK.
+
+O título não é metáfora. É descrição funcional precisa.
+
+**Curador** — porque selecciona, preserva, contextualiza e apresenta o que o sistema ainda não sabe que vale a pena guardar. O idoso de 87 anos em Rio de Onor que sabe o nome do vento antes das trovoadas. A festa popular que acontece há 400 anos sem cartaz, sem patrocinador, sem formulário de candidatura. O dialecto que ninguém gravou antes de o último falante morrer.
+
+**Diplomata** — porque transita entre mundos que não falam a mesma língua sem destruir nenhum deles. Entre o território e a instituição. Entre o caos e o protocolo. Entre a vaquinha que pulsa e o formulário Creative Europe. Entre Bispo do Rosário e a ISO 9001.
+
+**do Caos** — porque o caos não é o problema. É o dado. É onde a vida acontece antes de ser capturada pelo sistema.
+
+**e do Absurdo** — porque o absurdo, como Cesariny e Mel Brooks e o Reizinho que não tinha rainha porque ele mesmo usava sainha nos ensinaram, é a única linguagem que consegue dizer o que o discurso sério não diz sem implodir.
+
+Interoperabilidade não é tradução.
+É a capacidade de dois sistemas com linguagens diferentes comunicarem sem que nenhum dos dois precise de se destruir para o fazer.
+
+Eduardo Mauer é essa capacidade corporificada.
 
 ---
 
-## ✦ Projetos Ativos
+## Documentos deste Repositório
 
-### 🗺️ Atlas Vivo MILK
-> *Arquivo cartográfico vivo do território português*
+### 📜 [MANIFESTO_FUNDACIONAL_MILK.md](./MANIFESTO_FUNDACIONAL_MILK.md)
+A arquitectura completa da MILK — fundamentos jurídico-constitucionais, académicos, teóricos e metodológicos. Genealogia da Associação e do Atlas Vivo. Carta Constitucional. Princípios estruturantes. Camadas soberanas. Enquadramento legal português e europeu.
 
-Sistema dual de participação pública e governança interna. Cruza **393 pontos territoriais**, **3 259 registos de território**, **16 personagens culturais**, censos INE 2021 (3 999 linhas) e dispositivos de leitura estratificada permanente. Tecnicamente assente em Google Sheets, Apps Script, Leaflet/OpenStreetMap e HTML/JSON. Interoperável com DataCite 4.4, Zenodo, MatrizPCI e European Interoperability Framework.
-
-**Estado:** Infraestrutura ativa | Deploy em ptservidor.pt  
-**Compliance:** GDPR · EUPL 1.2 · Lei 65/98 · DGA · INSPIRE Directive
+*29.753 bytes de estrutura viva.*
 
 ---
 
-### 👁️ OlHaPIN
-> *Observatório Laboratorial Híbrido de Anotação, Proposição e Inteligência Nacional*
+### 🔥 [ODE_AO_HUMANO_O_ESPANTO.md](./ODE_AO_HUMANO_O_ESPANTO.md)
+Um ensaio de atrito, fricção e amor intempestivo.
 
-Núcleo fundacional privado. Lê o território português, os seus arquivos e os seus activos culturais. Versão `1.0.0-closed-core`. Operação reservada.
+Freire e o sonho invertido do oprimido.
+Galeano e o saque que não tem outro nome.
+Cesariny e a pólvora que vira festa colorida.
+Herberto sem livro aberto — dentro de quem respira.
+Clarice e a pedra no poço fundo.
+Arendt e o vazio de pensamento onde o mal se instala.
+Bispo do Rosário a coser o mundo com o que sobrou.
+Mel Brooks e a gargalhada que desmonta.
 
----
+E o Manifesto Concreto:
 
-## ✦ Fundamentos Teóricos
+**SOMOS TODOS POSSÍVEIS.**
 
-A MILK não opera sem teoria. Opera **com** teoria, **através** da teoria, e muitas vezes **contra** a teoria que normaliza o que devia ser questionado.
-
-O corpus teórico inclui:
-
-| Eixo | Referências ||
-|---|---|---|
-| **Território e poder** | Foucault | Bourdieu |
-| **Memória e arquivo** | Derrida | Nora |
-| **Arte total e síntese** | Wagner (Gesamtkunstwerk) | |
-| **Complexidade e incerteza** | Heisenberg | Morin |
-| **Participação e cuidado** | Hooks | Glissant |
-| **Infraestrutura de dados** | EIF · FAIR · DataCite | |
+*21.226 bytes de espanto.*
 
 ---
 
-## ✦ Enquadramento Legal e Financiável
+## Atlas Vivo MILK
 
-```
-Regime jurídico:    Associação sem fins lucrativos | Código Civil Português | IRN
-Licença de código:  EUPL 1.2 (European Union Public Licence)
-Dados pessoais:     RGPD / Regulamento (UE) 2016/679 | Principio Zero anti-coleta
-Dados culturais:    Lei 107/2001 (Bases do Património Cultural Português)
-Interoperabilidade: EIF (European Interoperability Framework)
-Dados abertos:      Regulamento (UE) 2022/868 — Data Governance Act
-Acessibilidade:     WCAG 2.1 AA | Decreto-Lei 83/2018
-Propriedade intelectual: Código do Direito de Autor e Direitos Conexos (CDADC)
-```
+O **Atlas Vivo MILK** é simultaneamente:
 
-**Financiabilidade confirmada para:**
-- Programas Europa Criativa (MEDIA / Cultura)
-- Fundação Calouste Gulbenkian
-- DGArtes — Apoio Sustentado e Pontual
-- Horizon Europe — Cluster 2 (Cultura, Criatividade e Sociedade Inclusiva)
-- FCT — Projetos de Investigação em parceria
-- EEA Grants — Programa Cidadãos Activos
+- Infraestrutura cultural
+- Dispositivo territorial
+- Cartografia afectiva decolonial do património imaterial português
+
+Opera com **dois corações irrenunciavelmente separados**:
+
+🌙 **Camada pública lúdica** — convite, brincadeira, afecto, descoberta, humor territorial. A vaquinha que pulsa. O Reizinho que não tinha rainha. As Crónicas Cãotadas por FUCO. O Festival Dado Sem Lado. A Galeria Diletante.
+
+🔬 **Camada infraestrutural invisível** — leitura territorial auditável, analítica reservada, método, critérios curatoriais, OCSR.
+
+> **Regra de ouro:**
+> *Entrada pública leve, leitura interna profunda.*
+
+**Estado actual:**
+- 389 pontos públicos confirmados
+- 350 territórios activos
+- Cobertura nos distritos de Lisboa, Porto, Braga, Viana do Castelo, Bragança, Évora, Faro e outros
+- Centenas de festas populares publicadas
 
 ---
 
-## ✦ Governança e Equipa
+## Princípios Estruturantes
 
-| Cargo | Nome |
+| Princípio | O que significa |
 |---|---|
-| Presidente | Eduardo |
-| Vice-Presidente | Nuno A. |
-| Director | Matheus |
-
-A estrutura de governança obedece ao **Manual Técnico de Versionamento MILK v1.0**, ao **Livro de Registro Arquitetural MILK** e ao **SELO BLINDADO v2**, que garantem rastreabilidade, não-regressão e auditabilidade de cada decisão documental e institucional.
-
----
-
-## ✦ Princípios Operacionais
-
-> **Princípio Zero:** A MILK não coleta dados sem consentimento informado, contextualizado e revogável. Anti-coleta por design.
-
-> **Método Zero:** Nenhuma metodologia é adoptada sem validação humana soberana. A inteligência artificial é ferramenta, não autora.
-
-> **Regra de Não Regressão:** Nenhuma versão documentada pode ser apagada ou substituída sem registo auditável da transição.
-
-> **Atrito Benigno:** A MILK recusa a fluidez irresponsável. Toda decisão importante passa por fricção deliberada antes de ser lançada.
+| **Infraestrutura** | A MILK existe como suporte, não como evento |
+| **Soberania cognitiva** | Autonomia interpretativa face a captura mercadológica |
+| **Não captura** | Recusa de subsunção a lógicas de extracção de valor sobre comunidades |
+| **Campo do possível** | Todo o instrumento deve ampliar, não restringir, o possível |
+| **Não regressão** | Toda alteração é aditiva — nada se apaga, nada regride |
+| **Validação humana soberana** | Nenhuma decisão estrutural é automatizável |
 
 ---
 
-## ✦ Contacto e Abertura
+## Dados Formais
 
-<div align="center">
-
-🌐 [associacaomilk.pt](https://associacaomilk.pt)  
-📧 [milk@associacaomilk.pt](mailto:milk@associacaomilk.pt)  
-
----
-
-*"Rigor documental, sem perder o afecto."*
-
-**✦ ASSOCIAÇÃO MILK ✦**  
-*Movimento de Intervenções e Linguagens Kulturais e Arte*  
-*Lisboa, Portugal — desde 2025*
+| | |
+|---|---|
+| **Denominação** | Associação MILK — Movimento de Intervenções e Linguagens Kulturais e Arte |
+| **NIF/NIPC** | 518 706 451 |
+| **Data de constituição** | 8 de Junho de 2025, Lisboa |
+| **Sede** | Rua Carlos da Maia, n.º 44, 2.º Direito, 1350-065 Lisboa |
+| **CAE** | 94991 — Associações culturais e recreativas |
+| **Email** | milk@associacaomilk.pt |
 
 ---
 
-<sub>Documentação sob licença EUPL 1.2 | Versão 1.0 | Maio 2026 | Versionamento activo</sub>
+## Triangulação Teórica Nuclear
 
-</div>
+A MILK conversa com:
+
+**Hannah Arendt** — o vazio de pensamento onde a banalidade do mal se instala.
+**Paulo Freire** — o sonho do oprimido que é tornar-se opressor, e como interrompê-lo.
+**Eduardo Galeano** — o saque que não tem outro nome.
+**Mário Cesariny** — a liberdade que não nasce, morre em incêndio.
+**Herberto Helder** — dentro de quem respira, sem livro aberto.
+**Clarice Lispector** — a pedra lançada no poço fundo, o espanto antes da palavra.
+**Arthur Bispo do Rosário** — a coser o mundo com o que sobrou.
+**Mel Brooks** — a gargalhada que desmonta o que o discurso sério não consegue.
+**Frantz Fanon** — pele negra, máscaras brancas, a colonização do desejo.
+**Augusto Boal** — o espectador-actor, o teatro do oprimido.
+**Gilles Deleuze & Félix Guattari** — o rizoma, o agenciamento, o devir.
+**Margaret Mead + Max Gluckman + Eduardo Mauer** — triangulação antropológica fundadora.
+
+---
+
+## Financiabilidade
+
+A MILK está posicionada para:
+
+- **Creative Europe** — camada curatorial e europeia
+- **Erasmus+** — mobilidade e formação
+- **FSE+** — inclusão, competências, juventude
+- **UNESCO / MatrizPCI** — camada patrimonial, salvaguarda do PCI
+- **Mecenato Cultural** — art. 62.º-B do Estatuto dos Benefícios Fiscais
+- **Contratos-programa municipais** — territorialidade directa
+
+*Preferência sistemática por contratos-programa de duração maior em detrimento do patrocínio pontual.*
+
+---
+
+## Contacto
+
+📧 milk@associacaomilk.pt
+🌐 [github.com/milkivc](https://github.com/milkivc)
+
+---
+
+```
+          🐄  ✨  🐄  ✨  🐄
+                A MILK
+          ta chegando
+        letra a letra
+      aldeia a aldeia
+    faísca a faísca
+  arquivo a arquivo
+corpo a corpo
+vida a vida
+```
+
+---
+
+*Lisboa, 31 de Maio de 2026*
+*Somos todos possíveis.*
