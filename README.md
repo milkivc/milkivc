@@ -1,7 +1,7 @@
 # MILK
 ## Movimento de Intervenções e Linguagens Kulturais e Arte
 
-Associção sem fins lucrativos, constituida em Lisboa a 8 de Junho de 2025.
+Associação sem fins lucrativos, constituída em Lisboa a 8 de Junho de 2025.
 NIF 518 706 451
 
 ---
@@ -112,11 +112,11 @@ A camada infraestrutural invisível sustenta a leitura territorial auditável, a
 
 Regra de ouro: Entrada pública leve, leitura interna profunda.
 
-Estado actual:
-389 pontos públicos confirmados.
-350 territórios activos.
-Cobertura nos distritos de Lisboa, Porto, Braga, Viana do Castelo, Bragança, Évora, Faro e outros.
-Centenas de festas populares publicadas.
+Estado factual de referência:
+827 festas georreferenciadas em registo curatorial.
+3.258 freguesias e 308 municípios no âmbito territorial.
+A publicação pública é progressiva e depende de direitos, consentimento e validação humana.
+A camada invisível mantém separados dados sensíveis, evidência de trabalho e motores curatoriais.
 
 ---
 
