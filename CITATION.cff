@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Para citar o perfil institucional da Associação MILK e do Atlas Vivo MILK, utilize estes metadados."
+title: "Associação MILK e Atlas Vivo MILK: perfil institucional, infraestrutura cultural e linhas públicas de produção"
+type: report
+authors:
+  - family-names: "Vieira Cabral e Araujo"
+    given-names: "Eduardo Mauricio"
+    alias: "Eduardo Mauer"
+    orcid: "https://orcid.org/0009-0007-6892-6570"
+    affiliation: "Associação MILK — Movimento de Intervenções e Linguagens Kulturais e Arte"
+version: "1.0.0"
+date-released: "2026-09-05"
+doi: "10.5281/zenodo.22412484"
+repository-artifact: "https://zenodo.org/records/22412485"
+url: "https://doi.org/10.5281/zenodo.22412484"
+license: "CC-BY-4.0"
+keywords:
+  - "Associação MILK"
+  - "Atlas Vivo MILK"
+  - "património cultural"
+  - "memória territorial"
+  - "humanidades digitais"
+  - "cartografia cultural"
+  - "interoperabilidade"
