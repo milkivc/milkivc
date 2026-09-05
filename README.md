@@ -1,6 +1,11 @@
 # MILK
 ## Movimento de Intervenções e Linguagens Kulturais e Arte
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22412484.svg)](https://doi.org/10.5281/zenodo.22412484)
+
+**Registo institucional e citação:** [DOI 10.5281/zenodo.22412484](https://doi.org/10.5281/zenodo.22412484)  
+**Versão publicada 1.0.0:** [DOI 10.5281/zenodo.22412485](https://doi.org/10.5281/zenodo.22412485)
+
 Associação sem fins lucrativos, constituída em Lisboa a 8 de Junho de 2025.
 NIF 518 706 451
 
